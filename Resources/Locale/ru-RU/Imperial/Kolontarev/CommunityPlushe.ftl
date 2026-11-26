@@ -37,7 +37,7 @@ plushie-AnnaYusupova-3 = "Давайте жить дружно"
 plushie-AnnaYusupova-4 = "Мне грустно осознавать, насколько мимолётно наше с тобой время. Но я всегда буду помнить о тебе."
 plushie-AnnaYusupova-5 = Увы и ах!
 plushie-AnnaYusupova-6 = "ФизДекс+, РетроБик, ПираДерм, ТрайТрико..."
-plushie-AnnaYusupova-7 = "Любую травму можно вылечить, а вот душевную её не лечат - с ней просто учатся жить." 
+plushie-AnnaYusupova-7 = "Любую травму можно вылечить, а вот душевную, её не лечат - с ней просто учатся жить." 
 
 plushie-KolontarevGennadyPetrov-1 = "КЗ, СРП знаешь?"
 plushie-KolontarevGennadyPetrov-2 = "Валяй"
